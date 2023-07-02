@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Todo List</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-themes@^1.0.2/dist/ectype/index.min.css" rel="stylesheet">
+    <style>
+        .task {
+            position: relative;
+            font-size: 20px;
+        }
+
+        .task-actions {
+            position: absolute;
+            right: 0;
+            top: 0;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-4 text-center">Todo List</h1>
+        <form method="POST" class="mb-3 d-flex justify-content-center">
+            <input type="text" name="content" placeholder="Enter a task" class="mr-2">
+            <input type="submit" value="Add" class="btn btn-primary">
+        </form>
+        <ul>
+            {% for item in items %}
+            <li class="task">
+                {% if item.completed %}
+                <del>{{ item.content }}</del>
+                {% else %}
+                {{ item.content }}
+                {% endif %}
+                <div class="task-actions">
+                    {% if not item.completed %}
+                    <a href="{{ url_for('complete', item_id=item.id) }}">[✓]</a>
+                    {% endif %}
+                    <a href="{{ url_for('delete', item_id=item.id) }}">[✗]</a>
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
