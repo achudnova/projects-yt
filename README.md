@@ -3,7 +3,7 @@ This repository contains a collection of various projects created using Python, 
 
 - [Projects](#projects-yt)
     - [Tkinter](#Python-Projects-with-Tkinter)
-    - [HTML/CSS/JS](#HTML/CSS/JavaScript-Projects)
+    - [HTML/CSS/JS](#HTML-CSS-JavaScript-Projects)
     - [Python-CLI](#Python-CLI-Projects)
     - [Flask](#Python-Projects-with-Flask)
 
@@ -52,7 +52,7 @@ This repository contains a collection of various projects created using Python, 
 
 • [**Whiteboard**](https://github.com/achudnova/projects-yt/tree/main/Whiteboard): An interactive whiteboard application for drawing and writing.
 
-## HTML/CSS/JavaScript Projects:
+## HTML-CSS-JavaScript Projects:
 • [**Booklist**](https://github.com/achudnova/projects-yt/tree/main/Booklist): An application to manage and display a list of books using HTML, CSS, and JavaScript.
 
 ## Python CLI Projects:
