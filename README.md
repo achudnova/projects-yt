@@ -1,11 +1,11 @@
 # projects-yt
 This repository contains a collection of various projects created using Python, Tkinter, Flask, and HTML/CSS/JavaScript. The projects cover a wide range of functionalities and were featured in my YouTube videos.
 
-- [Projects](#projects-yt)
-    - [Tkinter](#Python-Projects-with-Tkinter)
-    - [HTML/CSS/JS](#HTML-CSS-JavaScript-Projects)
-    - [Python-CLI](#Python-CLI-Projects)
-    - [Flask](#Python-Projects-with-Flask)
+- [projects-yt](#projects-yt)
+  - [Python Projects with Tkinter:](#python-projects-with-tkinter)
+  - [HTML-CSS-JavaScript Projects:](#html-css-javascript-projects)
+  - [Python CLI Projects:](#python-cli-projects)
+  - [Python Projects with Flask:](#python-projects-with-flask)
 
 ## Python Projects with Tkinter:
 • [**Calculator**](https://github.com/achudnova/projects-yt/tree/main/Calculator): A simple calculator application to perform basic arithmetic operations.
@@ -39,6 +39,8 @@ This repository contains a collection of various projects created using Python, 
 • [**Pomodoro Timer**](https://github.com/achudnova/projects-yt/tree/main/Pomodoro): A productivity tool that follows the Pomodoro Technique for time management.
 
 • [**QR Code Generator**](https://github.com/achudnova/projects-yt/tree/main/QRCode): Generates QR codes from text or URLs.
+
+• [**Quiz App**](https://github.com/achudnova/projects-yt/tree/main/QuizApp): interactive application that allows users to test their knowledge by taking quizzes on various subjects
 
 • [**Quote Generator**](https://github.com/achudnova/projects-yt/tree/main/QuoteGenerator): Provides inspirational or random quotes.
 
