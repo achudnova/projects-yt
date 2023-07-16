@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Sticky Notes App</title>
+    <style>
+        /* CSS styles for the app */
+        body {
+            margin: 0;
+            padding:0 ;
+            font-family: Arial, sans-serif;
+        }
+
+        .header {
+            background-color: #f2f2f2;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .note-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        .note {
+            width: calc(20% - 20px);
+            height: 300px;
+            border: 1px solid #ccc;
+            margin: 0 10px 30px 10px;
+            padding: 10px;
+            overflow: auto;
+            box-sizing: border-box;
+        }
+
+        .yellow {
+            background-color: #feff9c;
+        }
+
+        .lightblue {
+            background-color: lightblue;
+        }
+
+        .pink {
+            background-color: pink;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Sticky Notes App</h1>
+        <h3>Create a new note:</h3>
+        <form action="/add_note" method="post">
+            <!-- Input fields for adding a new note -->
+            <input type="text" name="note_text" placeholder="Take a note..." style="color: grey; width: 400px">
+            <select name="note_color">
+                <!-- Options for note color selection -->
+                <option value="yellow">Yellow</option>
+                <option value="lightblue">Blue</option>
+                <option value="pink">Pink</option>
+            </select>
+            <button type="submit">Add</button>
+        </form>
+    </div>
+
+    <div class="note-container">
+        {% for note in notes %}
+        <!-- Display existing notes -->
+        <div class="note {{ note.color }}">
+            <p>{{ note.text }}</p>
+            <!-- Form for deleting a note -->
+            <form action="/delete_note/{{ loop.index0 }}" method="post">
+                <button type="submit">Delete</button>
+            </form>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
