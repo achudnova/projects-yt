@@ -63,4 +63,6 @@ This repository contains a collection of various projects created using Python, 
 • [**URL Shortener**](https://github.com/achudnova/projects-yt/tree/main/URLShortener): A command-line tool to shorten long URLs.
 
 ## Python Projects with Flask:
-• [**TodoApp**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/TodoApp): A web-based todo application built using Python and Flask.
+• [**Todo App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/TodoApp): A web-based todo application built using Python and Flask.
+
+• [**Sticky Notes App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/StickyNotes): A web-based application designed for creating and managing virtual sticky notes for organizing tasks
