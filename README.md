@@ -2,12 +2,12 @@
 This repository contains a collection of various projects created using Python, Tkinter, Flask, and HTML/CSS/JavaScript. The projects cover a wide range of functionalities and were featured in my YouTube videos.
 
 - [projects-yt](#projects-yt)
-  - [Python Projects with Tkinter:](#python-projects-with-tkinter)
+  - [Python Projects with Tkinter:](#tkinter-projects)
   - [HTML-CSS-JavaScript Projects:](#html-css-javascript-projects)
   - [Python CLI Projects:](#python-cli-projects)
-  - [Python Projects with Flask:](#python-projects-with-flask)
+  - [Python Projects with Flask:](#flask-projects)
 
-## Python Projects with Tkinter:
+## Tkinter Projects:
 • [**Calculator**](https://github.com/achudnova/projects-yt/tree/main/Calculator): A simple calculator application to perform basic arithmetic operations.
 
 • [**Calendar**](https://github.com/achudnova/projects-yt/tree/main/Calendar): An interactive calendar that displays the days of the month and allows users to navigate through the months.
@@ -62,7 +62,9 @@ This repository contains a collection of various projects created using Python, 
 
 • [**URL Shortener**](https://github.com/achudnova/projects-yt/tree/main/URLShortener): A command-line tool to shorten long URLs.
 
-## Python Projects with Flask:
+## Flask Projects:
 • [**Todo App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/TodoApp): A web-based todo application built using Python and Flask.
 
 • [**Sticky Notes App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/StickyNotes): A web-based application designed for creating and managing virtual sticky notes for organizing tasks
+
+• [**Recipe App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/RecipeApp): This app allows users to search for recipes, view search results with titles and images, and access full recipe details.
