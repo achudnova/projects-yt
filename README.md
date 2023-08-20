@@ -21,6 +21,7 @@ This repository contains a collection of various projects created using Python, 
 • [**Color Palette**](https://github.com/achudnova/projects-yt/tree/main/ColorPalette): An application to generate and display random color palettes.
 
 • [**Dictionary App**](https://github.com/achudnova/projects-yt/tree/main/DictionaryApp): An interactive dictionary application that provides word meanings and definitions.
+
 • [**Flashcards App**](https://github.com/achudnova/projects-yt/tree/main/FlashcardApp): Create, manage, and learn with personalized flashcard sets.
 
 • [**Image Generator**](https://github.com/achudnova/projects-yt/tree/main/ImageGenerator): An image generator that creates abstract images or patterns.
