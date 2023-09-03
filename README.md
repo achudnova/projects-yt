@@ -70,3 +70,5 @@ This repository contains a collection of various projects created using Python, 
 • [**Sticky Notes App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/StickyNotes): A web-based application designed for creating and managing virtual sticky notes for organizing tasks
 
 • [**Recipe App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/RecipeApp): This app allows users to search for recipes, view search results with titles and images, and access full recipe details.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/achudnova)
