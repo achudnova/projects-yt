@@ -53,7 +53,7 @@ buttons = []
 for i in range(3):
     row = []
     for j in range(3):
-        button = ttk.Button(root, text='', width=5,
+        button = tk.Button(root, text='', width=5,
                             command=lambda i=i, j=j: make_move(i,j))
         button.grid(row=i, column=j, padx=5, pady=5)
         row.append(button)
