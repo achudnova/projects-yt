@@ -6,6 +6,7 @@ This repository contains a collection of various projects created using Python, 
   - [HTML-CSS-JavaScript Projects:](#html-css-javascript-projects)
   - [Python CLI Projects:](#python-cli-projects)
   - [Python Projects with Flask:](#flask-projects)
+  - [Automation Scripts](#automation-scripts)
 
 ## Tkinter Projects:
 • [**Calculator**](https://github.com/achudnova/projects-yt/tree/main/Calculator): A simple calculator application to perform basic arithmetic operations.
@@ -75,5 +76,7 @@ This repository contains a collection of various projects created using Python, 
 • [**Sticky Notes App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/StickyNotes): A web-based application designed for creating and managing virtual sticky notes for organizing tasks
 
 • [**Recipe App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/RecipeApp): This app allows users to search for recipes, view search results with titles and images, and access full recipe details.
----
+
+***
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/achudnova)
