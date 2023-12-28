@@ -56,6 +56,11 @@ This repository contains a collection of various projects created using Python, 
 
 • [**Whiteboard**](https://github.com/achudnova/projects-yt/tree/main/Whiteboard): An interactive whiteboard application for drawing and writing.
 
+## Automation Scripts
+
+• [**Speedtest**](https://github.com/achudnova/projects-yt/blob/main/speedtest): An automation script for checking your internet speed.
+
+
 ## HTML-CSS-JavaScript Projects:
 • [**Booklist**](https://github.com/achudnova/projects-yt/tree/main/Booklist): An application to manage and display a list of books using HTML, CSS, and JavaScript.
 
@@ -70,5 +75,5 @@ This repository contains a collection of various projects created using Python, 
 • [**Sticky Notes App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/StickyNotes): A web-based application designed for creating and managing virtual sticky notes for organizing tasks
 
 • [**Recipe App**](https://github.com/achudnova/projects-yt/tree/main/FlaskProjects/RecipeApp): This app allows users to search for recipes, view search results with titles and images, and access full recipe details.
-
+---
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/achudnova)
