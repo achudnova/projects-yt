@@ -61,6 +61,10 @@ This repository contains a collection of various projects created using Python, 
 
 • [**Speedtest**](https://github.com/achudnova/projects-yt/blob/main/speedtest): An automation script for checking your internet speed.
 
+• [**EmailSender**](https://github.com/achudnova/projects-yt/blob/main/EmailSender): A script that automates the sending of emails.
+
+• [**FileOrganizer**](https://github.com/achudnova/projects-yt/blob/main/FileOrganizer): An app that organizes files automatically. It categorizes and sorts files based on user-defined rules for a tidy file system.
+
 
 ## HTML-CSS-JavaScript Projects:
 • [**Booklist**](https://github.com/achudnova/projects-yt/tree/main/Booklist): An application to manage and display a list of books using HTML, CSS, and JavaScript.
