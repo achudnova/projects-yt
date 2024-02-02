@@ -2,12 +2,12 @@
 This repository contains a collection of various projects created using Python, Tkinter, Flask, and HTML/CSS/JavaScript. The projects cover a wide range of functionalities and were featured in my YouTube videos.
 
 - [projects-yt](#projects-yt)
-  - [Python Projects with Tkinter:](#tkinter-projects)
-  - [HTML-CSS-JavaScript Projects:](#html-css-javascript-projects)
-  - [Python CLI Projects:](#python-cli-projects)
-  - [Python Projects with Flask:](#flask-projects)
-  - [Automation Scripts:](#automation-scripts)
-  - [Menu Bar Apps:](#menu-bar-apps-for-macos)
+  - [Python Projects with Tkinter](#tkinter-projects)
+  - [HTML-CSS-JavaScript Projects](#html-css-javascript-projects)
+  - [Python CLI Projects](#python-cli-projects)
+  - [Python Projects with Flask](#flask-projects)
+  - [Automation Scripts](#automation-scripts)
+  - [Menu Bar Apps](#menu-bar-apps-for-macos)
 
 ## Tkinter Projects:
 • [**Calculator**](https://github.com/achudnova/projects-yt/tree/main/Calculator): A simple calculator application to perform basic arithmetic operations.
